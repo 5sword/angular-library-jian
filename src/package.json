@@ -1,0 +1,28 @@
+{
+  "name": "angular-library-jian",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/5sword/angular-library-jian"
+  },
+  "author": {
+    "name": "Jian Wu",
+    "email": "jian0wu@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/5sword/angular-library-jian/issues"
+  },
+  "main": "angular-library-jian.umd.js",
+  "module": "angular-library-jian.js",
+  "jsnext:main": "angular-library-jian.js",
+  "typings": "angular-library-jian.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
